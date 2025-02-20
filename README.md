@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # GoogleFlightReplica
 # google-flight-replica
 # google-flight-replica
+# google-flight-replica
